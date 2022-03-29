@@ -1,0 +1,26 @@
+nav>a{
+    text-align: left;
+    padding: 16px 18px;
+    font-size: medium;
+    color: black;
+}
+nav{
+    float:right;
+padding-top: 3%;
+}
+nav>a:hover{
+    background-color: rgb(226, 43, 150);
+    color: black;
+}
+table{
+    width: 400px;
+    border: spacing 40px;
+}
+th{
+    text-align: left;
+}
+table ,th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+}
