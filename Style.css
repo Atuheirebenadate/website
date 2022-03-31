@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-image: url(good.jpg)
+}
 nav>a{
     text-align: left;
     padding: 16px 18px;
@@ -6,21 +11,18 @@ nav>a{
 }
 nav{
     float:right;
-padding-top: 3%;
 }
 nav>a:hover{
     background-color: rgb(226, 43, 150);
     color: black;
 }
-table{
-    width: 400px;
-    border: spacing 40px;
+footer{
+    color: black;
+    margin-left: 3cm;
+    align-items:left ;
+    font-size: large;  
 }
-th{
-    text-align: left;
-}
-table ,th, td{
-    border: 1px solid black;
-    border-collapse: collapse;
-    
-}
+
+
+
+

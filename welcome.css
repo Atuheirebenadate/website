@@ -1,0 +1,22 @@
+table{
+    background-color: red;
+    width: 70%;
+    height: 39%;
+    border:  1px;
+    top: 400%;
+    text-decoration-color: black;
+    size: 2px;
+    left: 5%;
+    padding: 20%;
+    position: absolute;
+}
+th{
+    text-align: center;
+}
+table ,th, td{
+    border: 6px solid black;
+    border-collapse: collapse;
+    position: relative;
+    margin-top:100px;
+    text-align: center;
+}
